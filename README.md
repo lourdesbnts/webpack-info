@@ -12,6 +12,7 @@ That's right, _clone_ not fork. You will use this repo multiple times, but you c
 
 Now try to commit something (just add a line in the README) and push it up to your new repo. If everything is setup correctly, you should see the changes on GitHub.
 //did I connect this right
+## Setup
 
 ## Setup
 
